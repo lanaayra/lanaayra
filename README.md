@@ -1,11 +1,8 @@
 ## (～￣▽￣)～ Ally!
-**`Estudante da área`**
-
-### ✏️ Estudante em:
-<p>🔹Web <br>
-🔹Beckend <br>
-🔹Gamedev <br>
-🔹UI design </p>
+**`Estudante da área`** <br>
+<br>
+Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo interssse em: <br>
+🔹**Web**🔹**Beckend**🔹**Gamedev**🔹**UI design**
 
 
 ### ✳️ Linguagens e recursos
@@ -58,6 +55,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+ <h1 align="right"> <img src="https://github.com/lanaayra/lanaayra/blob/main/miku-hatsune-miku.gif" width="200" alt="Miku caindo" /> </h1>
 <br/>
 <br/>
