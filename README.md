@@ -11,7 +11,7 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e <br> entusias
   **🎮 Curiosa por gamedev**
   ---
 
-### ✳️ Linguagens e recursos
+### ✳️ Linguagens e recursos: <br>
 
 <img 
     align="left" 
@@ -54,5 +54,3 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e <br> entusias
   .・。.・゜✭・.✦⋆｡°✩
 </p>
 <br>
-
-![snake gif](https://github.com/lanaayra/lanaayra/blob/output/github-contribution-grid-snake-dark.svg)
