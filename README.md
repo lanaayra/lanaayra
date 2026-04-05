@@ -3,7 +3,7 @@
 <td>
 
 ## (～￣▽￣)～ Ally!
-**`Estudante da área`** <br><br>
+**`Estudante da área`** <br>
 
 Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo interssse em: <br>
 🔹**Web** 🔹**Backend** 🔹**Gamedev** 🔹**UI design**
@@ -12,7 +12,7 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo inters
 
 <td align="right">
 
-<img src="https://github.com/lanaayra/lanaayra/blob/main/miku-hatsune-miku.gif" width="180px"/>
+<img src="https://github.com/lanaayra/lanaayra/blob/main/gumi-megpoid.gif" width="180px"/>
 
 </td>
 </tr>
@@ -59,4 +59,4 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo inters
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/><br/><br/>
+<br/>
