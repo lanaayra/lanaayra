@@ -53,5 +53,6 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e <br> possuo i
 <p align="right">
   .・。.・゜✭・.✦⋆｡°✩
 </p>
+<br>
 
 ![snake gif](https://github.com/lanaayra/lanaayra/blob/output/github-contribution-grid-snake-dark.svg)
