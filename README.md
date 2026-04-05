@@ -1,24 +1,15 @@
-<table>
-<tr>
-<td>
-
 ## (～￣▽￣)～ Ally!
 **`Estudante da área`** <br>
 
-Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo interssse em: <br>
-🔹**Web** 🔹**Backend** 🔹**Gamedev** 🔹**UI design**
+Oii, eu sou Alana Ayra e sou estudante na área de programação e <br> possuo interesse nas áreas de gamedev, web, backend e UI design <br>
+ <p align="right"> 
+  <img src="https://github.com/lanaayra/lanaayra/blob/main/gumi-lost.gif" width="180px"/>
+  
 
-</td>
-
-<td align="right">
-
-<img src="https://github.com/lanaayra/lanaayra/blob/main/gumi-megpoid.gif" width="180px"/>
-
-</td>
-</tr>
-</table>
-
----
+**🐍 Python lover** <br>
+  **🤖 Foco embackend e web** <br>
+  **🎮 Curiosa por gamedev**
+  ---
 
 ### ✳️ Linguagens e recursos
 
@@ -58,5 +49,7 @@ Oii, eu sou Alana Ayra e sou estudante na área de programação e possuo inters
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <br/>
+<p align="right">
+  .・。.・゜✭・.✦⋆｡°✩
+</p>
