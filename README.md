@@ -1,4 +1,4 @@
-# (～￣▽￣)～ Ally!
+# Ally ( ꩜ ᯅ ꩜;)⁭ ⁭
 **`Estudante da área`** <br>
 
  Oii, eu sou Alana Ayra e sou estudante na área de programação e <br> entusiasta nas áreas de gamedev, web, backend e UI design <br>
